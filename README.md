@@ -20,5 +20,6 @@ Las reducciones de caudal serán permanentemente controladas por la autoridad a 
 La historia del río Maipo como fuente de agua para la ciudad de Santiago se remonta a la Colonia. Antes de que surgiera la República de Chile los habitantes de Santiago ya se habían planteado la necesidad de realizar obras para captar las aguas del río Maipo con el propósito de abastecer de agua a buena parte del territorio que hoy ocupa el Gran Santiago. El resultado sería un canal de 32 km que, corriendo de sur a norte, captaría las aguas del río Maipo, llevándolas por el pie de monte hasta el río Mapocho.
 ### línea de tiempo
 
-##[Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
+[Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
+
 ![prototipando](https://i.pinimg.com/originals/6d/61/7c/6d617c3458535e7fcae15e5ca5daf523.png)
