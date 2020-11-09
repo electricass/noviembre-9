@@ -13,7 +13,8 @@
 
 [Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
 
-![prototipando](https://www.pinterest.cl/pin/745697650796777741/)
+![prototipando](https://i.pinimg.com/564x/a0/80/ff/a080ff0aedb47923d4a86e2ef02c2d3e.jpg)
+
 
 # Información
 ## Qué es Alto Maipo y de qué se trata
