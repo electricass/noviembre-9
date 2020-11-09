@@ -29,3 +29,14 @@ La historia del río Maipo como fuente de agua para la ciudad de Santiago se rem
 [Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
 
 ![prototipando](https://i.pinimg.com/originals/6d/61/7c/6d617c3458535e7fcae15e5ca5daf523.png)
+
+### Orden Información
+* Qué es
+* Cuencas (mapa)
+* Contexto (Linea de tiempo)
+* ¿Porqué es bueno?
+* ¿Porqué es malo?
+* Consecuencias según opositores
+* Problema social y político
+* Conclusción
+* 
