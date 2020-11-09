@@ -15,3 +15,6 @@ El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas co
 Las reducciones de caudal serán permanentemente controladas por la autoridad a través de estaciones fluviométricas existentes, así como estaciones que el proyecto debe implementar y entregar a la autoridad para que ésta las opere y vigile. 
 
 ![Cuencas](https://i.pinimg.com/originals/49/26/ac/4926acbd16db40bb2b86313e01aaa15e.png)
+
+## Contexto del proyecto (https://laderasur.com/articulo/por-que-el-proyecto-alto-maipo-amenaza-la-provision-de-agua-potable-para-la-ciudad-de-santiago/)
+
