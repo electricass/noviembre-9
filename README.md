@@ -10,8 +10,8 @@ Contará con dos centrales de generación dispuestas en serie (Alfalfal II y Las
 
 El agua desviada será *devuelta en su totalidad al río Maipo* en las mismas condiciones en las que se tomó y no afectará el caudal ecológico del río, tampoco el consumo de agua potable de la Región Metropolitana ni el de los agricultores.
 
-
-### El proyecto captará parte del agua de la cabecera del río Volcán, como también parte de la que se encuentra aguas abajo del Embalse El Yeso, y parte de las aguas del río Colorado y el estero Aucayes.
+### [Cuencas](https://conocealtomaipo.cl/agua/)
+## El proyecto captará parte del agua de la cabecera del río Volcán, como también parte de la que se encuentra aguas abajo del Embalse El Yeso, y parte de las aguas del río Colorado y el estero Aucayes.
 Las reducciones de caudal serán permanentemente controladas por la autoridad a través de estaciones fluviométricas existentes, así como estaciones que el proyecto debe implementar y entregar a la autoridad para que ésta las opere y vigile. 
 
 ![Cuencas](https://i.pinimg.com/originals/49/26/ac/4926acbd16db40bb2b86313e01aaa15e.png)
