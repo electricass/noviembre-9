@@ -1,4 +1,21 @@
 # Proyecto Alto Maipo
+### ESTRUCTURA
+* Qué es Alto Maipo
+* Cuencas (mapa)
+* Contexto (Linea de tiempo)
+* ¿Porqué es bueno?
+* ¿Porqué es malo?
+* Consecuencias según opositores
+* Problema social y político
+* Conclusción
+
+# Prototipo infografía
+
+[Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
+
+![prototipando](https://i.pinimg.com/originals/6d/61/7c/6d617c3458535e7fcae15e5ca5daf523.png)
+
+# Información
 ## Qué es y de qué se trata
 ![Mapa Proyeccto Alto Maipo](https://i.pinimg.com/564x/eb/95/e7/eb95e7b9fcf3cd14e10e8fab1eb0d879.jpg)
 ![Construcción Proyeccto Alto Maipo](https://3powershala.com/wp-content/uploads/2016/11/Alto-Maipo-1-770x513.jpg)
@@ -26,17 +43,6 @@ La historia del río Maipo como fuente de agua para la ciudad de Santiago se rem
 * **Ubicación estratégica**: Ubicado a 50 kms de Santiago y cerca de los centros de distribución eléctrica, el proyecto sólo requiere 17 kms de líneas de transmisión nuevas. Su proximidad a la capital la hace menos vulnerable en caso de un blackout o “apagón” generalizado, ya que las centrales hidroeléctricas son las primeras en reponer la inyección de energía al sistema.
 * **Aporte energético**: Sus dos centrales de pasada, Alfalfal II y Las Lajas, tendrán una potencia instalada de hasta 531 MW, constituyendo un potencial aporte a un millón de hogares a través del Sistema Eléctrico Nacional (SEN).
 
-[Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
 
-![prototipando](https://i.pinimg.com/originals/6d/61/7c/6d617c3458535e7fcae15e5ca5daf523.png)
 
-### Orden Información
-* Qué es
-* Cuencas (mapa)
-* Contexto (Linea de tiempo)
-* ¿Porqué es bueno?
-* ¿Porqué es malo?
-* Consecuencias según opositores
-* Problema social y político
-* Conclusción
-* 
+
