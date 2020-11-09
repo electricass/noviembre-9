@@ -20,7 +20,8 @@ Las reducciones de caudal serán permanentemente controladas por la autoridad a 
 La historia del río Maipo como fuente de agua para la ciudad de Santiago se remonta a la Colonia. Antes de que surgiera la República de Chile los habitantes de Santiago ya se habían planteado la necesidad de realizar obras para captar las aguas del río Maipo con el propósito de abastecer de agua a buena parte del territorio que hoy ocupa el Gran Santiago. El resultado sería un canal de 32 km que, corriendo de sur a norte, captaría las aguas del río Maipo, llevándolas por el pie de monte hasta el río Mapocho.
 ### línea de tiempo
 
-## Beneficios Alto Maipo
+## ¿Porqué es bueno?
+#### Beneficios Alto Maipo
 * **Energía Renovable**: Alto Maipo es un proyecto hidroeléctrico de pasada, desvía parte del cauce del río y luego lo devuelve al afluente natural sin ningún tipo de proceso o intervención química. Esto permite generar energía eléctrica limpia y renovable, sin necesidad de almacenar o alterar los recursos hídricos.
 * **Ubicación estratégica**: Ubicado a 50 kms de Santiago y cerca de los centros de distribución eléctrica, el proyecto sólo requiere 17 kms de líneas de transmisión nuevas. Su proximidad a la capital la hace menos vulnerable en caso de un blackout o “apagón” generalizado, ya que las centrales hidroeléctricas son las primeras en reponer la inyección de energía al sistema.
 * **Aporte energético**: Sus dos centrales de pasada, Alfalfal II y Las Lajas, tendrán una potencia instalada de hasta 531 MW, constituyendo un potencial aporte a un millón de hogares a través del Sistema Eléctrico Nacional (SEN).
