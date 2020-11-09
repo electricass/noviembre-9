@@ -17,4 +17,5 @@ Las reducciones de caudal serán permanentemente controladas por la autoridad a 
 ![Cuencas](https://i.pinimg.com/originals/49/26/ac/4926acbd16db40bb2b86313e01aaa15e.png)
 
 ## [Contexto del proyecto](https://laderasur.com/articulo/por-que-el-proyecto-alto-maipo-amenaza-la-provision-de-agua-potable-para-la-ciudad-de-santiago/)
-
+La historia del río Maipo como fuente de agua para la ciudad de Santiago se remonta a la Colonia. Antes de que surgiera la República de Chile los habitantes de Santiago ya se habían planteado la necesidad de realizar obras para captar las aguas del río Maipo con el propósito de abastecer de agua a buena parte del territorio que hoy ocupa el Gran Santiago. El resultado sería un canal de 32 km que, corriendo de sur a norte, captaría las aguas del río Maipo, llevándolas por el pie de monte hasta el río Mapocho.
+### línea de tiempo
