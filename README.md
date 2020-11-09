@@ -16,5 +16,5 @@ Las reducciones de caudal serán permanentemente controladas por la autoridad a 
 
 ![Cuencas](https://i.pinimg.com/originals/49/26/ac/4926acbd16db40bb2b86313e01aaa15e.png)
 
-## Contexto del proyecto (https://laderasur.com/articulo/por-que-el-proyecto-alto-maipo-amenaza-la-provision-de-agua-potable-para-la-ciudad-de-santiago/)
+## [Contexto del proyecto](https://laderasur.com/articulo/por-que-el-proyecto-alto-maipo-amenaza-la-provision-de-agua-potable-para-la-ciudad-de-santiago/)
 
