@@ -14,7 +14,8 @@
 [Prototipando la diagramación](https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=0%3A1)
 
 ![prototipando](https://i.pinimg.com/564x/a0/80/ff/a080ff0aedb47923d4a86e2ef02c2d3e.jpg)
-
+![protipando2](https://i.pinimg.com/564x/13/43/fb/1343fb7fcde714b70966abb84241ef9c.jpg) 
+![protitipando3](https://i.pinimg.com/564x/8e/73/57/8e735700db37e7a8661071cd866b95b4.jpg)
 
 # Información
 ## Qué es Alto Maipo y de qué se trata
