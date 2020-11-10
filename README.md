@@ -1,12 +1,12 @@
 # Proyecto Alto Maipo
 ### ESTRUCTURA
 * Qué es Alto Maipo
-* Cuencas (mapa)
-* Contexto (Linea de tiempo)
-* ¿Porqué es bueno?
-* ¿Porqué es malo?
+* Cuencas que van a hacer para el proyecto (mapa)
+* Contexto (Linea de tiempo, Importancia historica del río Maipo)
+* ¿Por qué es bueno?
+* ¿Por  qué es malo?
 * Consecuencias según opositores
-* Problema social y político
+* Porqué es un problema social y político
 * Conclusión
 
 # Prototipo infografía
@@ -66,6 +66,8 @@ La historia del río Maipo como fuente de agua para la ciudad de Santiago se rem
 > "El Sistema de Evaluación de Impacto Ambiental (SEIA), -que analiza y entrega la autorización para levantar las iniciativas de inversión- está hecho para aprobar los proyectos y limita la participación ciudadana. La mayoría de los conflictos que conocemos son por los reclamos de las comunidades frente a los proyectos que presentaron un Estudio de Impacto Ambiental (EIA), por lo que son una mínima parte de los potenciales conflictos que pueden existir en el país. Además, las comunidades no cuentan con apoyo técnico ni jurídico que les permita entender la magnitud del impacto que tal o cual proyecto tendrá en sus territorios y en sus vidas"
 
 > "El país tiene una visión limitada del medioambiente, el que es percibido únicamente como un recurso para extraer y generar riqueza. Así, permite que se produzcan no sólo daños irreparables para los ecosistemas, sino también, pone en asimetría de poder a las empresas contra las comunidades", opina el director de Greenpeace, Matías Asun. 
+
+
 
 
 
