@@ -1,8 +1,8 @@
 # Proyecto Alto Maipo
 ### ESTRUCTURA
 * Qué es Alto Maipo
-* Cuencas que van a hacer para el proyecto (mapa)
 * Contexto (Linea de tiempo, Importancia historica del río Maipo)
+* Cuencas que van a hacer para el proyecto (mapa)
 * ¿Por qué es bueno?
 * ¿Por  qué es malo?
 * Consecuencias según opositores
